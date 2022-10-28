@@ -1,0 +1,1 @@
+Notitie: in plaats van dat enemies naar jou base toe komen, heb ik beslist om juist jou naar de enemies toe te laten gaan. Ik denk dat dit gameplay leuker maakt, want anders zou je niks doen behalve stil staan met je units. Dus de Win condition is dat je al de aliens doodmaakt, en de Lose condition is dat je geen units meer hebt om te deployen.
