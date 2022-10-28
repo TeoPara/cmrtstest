@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WaterDirt1
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 816975432, guid: 66f5d818fbf8d35428a639468d04e677, type: 3}
+  - {fileID: 1511993104, guid: 66f5d818fbf8d35428a639468d04e677, type: 3}
+  - {fileID: 408396362, guid: 66f5d818fbf8d35428a639468d04e677, type: 3}
+  - {fileID: 1546737976, guid: 66f5d818fbf8d35428a639468d04e677, type: 3}
+  - {fileID: 1710883999, guid: 66f5d818fbf8d35428a639468d04e677, type: 3}
+  - {fileID: -186395088, guid: 66f5d818fbf8d35428a639468d04e677, type: 3}
+  - {fileID: 1512051331, guid: 66f5d818fbf8d35428a639468d04e677, type: 3}
+  - {fileID: -1599788755, guid: 66f5d818fbf8d35428a639468d04e677, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
