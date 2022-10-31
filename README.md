@@ -1,7 +1,7 @@
 # Technisch
 
-**ECS**
 
+**ECS**
 ECS is de code structuur die ik heb gebruikt hiervoor. ECS staat voor "Entity-Component-System". In deze principe is het de bedoeling om code en data te verdelen. In plaats van een script op elke object van elke enemy te plaatsen, heb ik EEN isntantie van een Enemy script, genaamd EnemySystem. In deze script, bestuur ik de behaviour van alle enemies tegelijkertijd, en gebruik in een Enemy class die alleen de data bevat die ik nodig heb. (Bijv. "Health", "CurrentFacingDirection")
 
 **Pathfinding**
