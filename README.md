@@ -1,4 +1,4 @@
-#1 Gameplay
+# 1 Gameplay
 
 Doel van het spel:
 Je moet een LZ kiezen, en dan moet je units spawnen en de units besturen om alle XALIENS te doodschieten. Je moet voorkomen dat de XALIENS je units doodmaken.... wanneer je ze allemaal hebt vermoord dan win je, maar als je units doodgaan verlies je...
