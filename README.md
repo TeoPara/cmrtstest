@@ -4,6 +4,10 @@
 
 ECS is de code structuur die ik heb gebruikt hiervoor. ECS staat voor "Entity-Component-System". In deze principe is het de bedoeling om code en data te verdelen. In plaats van een script op elke object van elke enemy te plaatsen, heb ik EEN isntantie van een Enemy script, genaamd EnemySystem. In deze script, bestuur ik de behaviour van alle enemies tegelijkertijd, en gebruik in een Enemy class die alleen de data bevat die ik nodig heb. (Bijv. "Health", "CurrentFacingDirection")
 
+**Pathfinding**
+
+Voor de pathfinding van de units in enemy's in deze spel, heb ik een eigen pathfinding systeem gemaakt. Het gaat als volgt: Er is een lijst van al bezochte tiles, en er is een lijst van de huidige path. Elke stap, zijn er 4 mogelijke richtingen waar de huidige positie in kan gaan, de richtingen die naar het einddoel wijzen, worden als eerst gekozen. Als een richting al bezocht was of er een obstakel is, wordt die geignoreerd. En als er geen richting meer over is, dan wordt de huidige positie teruggebracht naar vorige posities in de path lijst totdat er wel nog opties zijn.
+Zo wordt er een path ge-genereerd, het is niet ge-garanteerd de kortst mogelijke path, maar het is wel een snelle manier om het te doen. Dat vind in belangrijker, aangezieen er wel tientallen verschillende characters die dit gebruiken tegelijkertijd in het spel zijn.
 
 # Gameplay
 
