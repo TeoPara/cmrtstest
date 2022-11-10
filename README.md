@@ -1,4 +1,4 @@
-[a](https://github.com/TeoPara/cmrtstest/blob/master/edit BO(1).gif)
+[a](https://github.com/TeoPara/cmrtstest/blob/master/edit_BO(1).gif)
 
 # Technisch
 
