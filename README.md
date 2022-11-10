@@ -1,3 +1,5 @@
+(edit BO(1).gif)
+
 # Technisch
 
 
