@@ -1,4 +1,4 @@
-(edit BO(1).gif)
+[a](edit BO(1).gif)
 
 # Technisch
 
