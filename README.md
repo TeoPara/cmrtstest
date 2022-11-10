@@ -1,4 +1,4 @@
-[GIFje](https://github.com/TeoPara/cmrtstest/blob/master/edit%20BO(1).gif)
+[GIFje](https://github.com/TeoPara/cmrtstest/blob/master/edit%20BO(1).gif?raw=true)
 
 # Technisch
 
