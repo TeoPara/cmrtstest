@@ -1,4 +1,4 @@
-https://github.com/TeoPara/cmrtstest/blob/master/edit%20BO(1).gif
+[](https://github.com/TeoPara/cmrtstest/blob/master/edit%20BO(1).gif)
 
 # Technisch
 
